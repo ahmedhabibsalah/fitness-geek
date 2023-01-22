@@ -122,7 +122,7 @@ function Calculator() {
         <span className="flex gap-2 flex-col ">
           <p className="text-[#f4d58d] text-base"> {name} You Weight is</p>
           <p className="text-[#f4d58d] text-base font-bold">
-            {name == "raneem waleed" ? "Perfect" : info}
+            {name == "raneem waleed" ? "Perfect just like you" : info}
           </p>
         </span>
         <span className="flex gap-2 flex-col ">
